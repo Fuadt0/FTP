@@ -12,3 +12,5 @@ It's a webpage that collects User data and displays them.
 - User must be above 18 to enter User Information.
 
 ## To Clone the Repository ##
+git clone git@github.com:Fuadt0/FTP.git
+cd FTP
